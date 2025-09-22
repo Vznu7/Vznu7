@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Artificial Intelligence, Deep Learning & LLMs**
+- 🌱 I’m currently learning **Artificial Intelligence & LLMs**
 - 🤝 I’m looking to collaborate on **AI, ML, and Open Source projects**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP**
 - 📫 How to reach me: **[Your Email Here]**
