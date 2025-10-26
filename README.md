@@ -12,6 +12,7 @@ I specialize in building **LLM-powered applications** and **end-to-end AI soluti
 - **Tools:** Docker, GitHub Actions, AWS ,azure fff
 - kkkj
 - gkg
+- jhj
 - jhjhj
 - djdjdndn
 - hhhh
