@@ -13,7 +13,7 @@ I specialize in building **LLM-powered applications** and **end-to-end AI soluti
 - kkkj
 - gkg
 - jhj
-- jhjhj
+- jhjhjddd
 - sssdddd
 - djdjdndn
 - hhhh
