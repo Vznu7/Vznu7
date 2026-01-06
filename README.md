@@ -9,7 +9,7 @@ I specialize in building **LLM-powered applications** and **end-to-end AI soluti
 #### 🛠️ Tech Stack
 - **AI/ML:** PyTorch, TensorFlow, Hugging Face, LangChain, OpenAI API, Ollama ,langgraph 
 - **Web:** React, Next.js, Node.js  
-- **Tools:** Docker, GitHub Actions, AWS ,azure fff
+- **Tools:** Docker, GitHub Actions, AWS ,azure 
 - iiio
 - N8N
 
