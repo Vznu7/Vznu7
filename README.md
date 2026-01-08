@@ -12,6 +12,6 @@ I specialize in building **LLM-powered applications** and **end-to-end AI soluti
 - **Tools:** Docker, GitHub Actions, AWS ,azure 
 - OPENAI AGENT BUILDER
 - N8N,ZAPIER,MAKE.com
-- automations using AI
+- automations using AI,No code AI
 
 ---
