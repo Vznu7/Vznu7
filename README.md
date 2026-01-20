@@ -14,6 +14,7 @@ I specialize in building **LLM-powered applications** and **end-to-end AI soluti
 - N8N,ZAPIER,MAKE.com
 - automations using AI,No code AI
 - jjhhj
+- df
 - dsfsdfs
 - werwqwe
 - dsfsfsdf
