@@ -15,6 +15,7 @@ I specialize in building **LLM-powered applications** and **end-to-end AI soluti
 - automations using AI,No code AI
 - jjhhj
 - dsfsdfs
+- werwqwe
 - dsfsfsdf
 - jkjdsdsd
 - uuuidsds
