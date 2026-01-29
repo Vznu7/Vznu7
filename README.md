@@ -17,7 +17,7 @@ I specialize in building **LLM-powered applications** and **end-to-end AI soluti
 -
 - uuuidsds make.com/zapier pA 
 - hjjkk
-hgiuuiudfsfsdfsd
+hgiuuiudfsfsdfsddfdfsdfds
 oioioi
 i a m vishnu
 vishnu vishnudfsfsdfsd
