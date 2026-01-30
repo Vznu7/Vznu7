@@ -20,7 +20,7 @@ I specialize in building **LLM-powered applications** and **end-to-end AI soluti
 hgiuuiudfsfsdfsddfdfsdfds
 oioioi
 i a m vishnu
-vishnu vishnudfsfsdfsddsfsdfs
+vishnu vishnudfsfsdfsddsfsdfssfsdfsd
 ddf
 software engineer
 ---
