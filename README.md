@@ -13,10 +13,4 @@ I specialize in building **LLM-powered applications** and **end-to-end AI soluti
 - OPENAI AGENT BUILDER
 - N8N,ZAPIER,MAKE.com
 - automations using AI,No code AI
-sdfsdfds
-dfgdfsd
-lklkl
-opopopopop
-opopo
-pppp
-iioioipp
+
